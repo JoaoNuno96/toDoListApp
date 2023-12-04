@@ -1,5 +1,5 @@
 <h1>toDoListApp</h1>
-<hr/>
+
 To do list application, was an App developed in an online course.
 The app allows the user to register an item in the to do list, and control the status (if it has been completed or not), and you can also update or delete any list's item;
 You can also view all your tasks that are not completed, or completed;
