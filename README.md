@@ -5,4 +5,6 @@ The app allows the user to register an item in the to do list, and control the s
 You can also view all your tasks that are not completed, or completed;
 Since, this app uses the PDO(PHP) to connect to database, any list item which sufers an update will also be updated in database, or delete.
 <hr/>
-![imagem](https://github.com/JoaoNuno96/toDoListApp/assets/129988575/b4786785-6893-4381-a47a-bfe99871b8da)
+
+
+![Captura de ecrã 2023-12-04 150214](https://github.com/JoaoNuno96/toDoListApp/assets/129988575/e3b44d2a-d23c-4919-b4d1-106ddd70b26f)
